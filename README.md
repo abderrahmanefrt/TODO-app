@@ -1,3 +1,40 @@
+# 📝 Next.js To-Do App
+
+A simple and modern to-do list application built with **Next.js**. Manage your tasks efficiently with a responsive, fast, and minimal interface.
+
+## 🚀 Features
+
+- ✅ Add, edit, and delete tasks
+- 📋 Mark tasks as complete/incomplete
+- 🌓 Light/Dark mode (optional)
+- 💾 Local storage or backend support
+- ⚡ Fast performance with Next.js
+
+## 🛠️ Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/) (for styling)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 📸 Screenshots
+
+
+
+## 🧑‍💻 Getting Started
+
+Clone the project:
+
+```bash
+git clone https://github.com/abderrahmanefrt/nextjs-todo-app.git
+cd nextjs-todo-app
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
